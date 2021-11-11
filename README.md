@@ -1,4 +1,4 @@
-# Hello! I'm BinaryBobcat
+# Hello! I'm BinaryBobcat :smiley_cat:
 
 - 👋 Hi, I’m @BinaryBobcat
 - 👀 I’m interested in Cyber stuff
