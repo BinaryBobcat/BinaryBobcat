@@ -11,8 +11,22 @@
 - 🧩 I like attending CTF events to further my knowledge
 
 ### Certifications 📜
-- Security+
-- TCM - Practical Malware Analysis & Triage
+- Gray Hat Academy | IOT Firmware Exploitation
+- eLearnSecurity | Junior Penetration Tester (eJPT)
+- TCM | Practical Malware Analysis & Triage (PMAT)
+- CompTIA | Security+ (Sec+)
+- Blackhat Training:
+  • Reverse Engineering Firmware with Ghidra
+  • The Shellcode Lab
+  • Assessing and Exploiting Control Systems and IIoT
+- Defcon Workshops:
+  • House of Heap Exploitation
+  • A Practical Approach to Emulating Malware
+
+### Favorite CTF's
+- Fireye Flareon
+- Sans Holiday Hack Challenge 'Kringlecon'
+- NahamCon
 
 ---
 
