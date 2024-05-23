@@ -6,9 +6,8 @@
 </div>
 
 ### About me
-- 👀 I’m interested in Cyber stuff
-- :space_invader: I love Reverse Engineering!!
-- 🌱 I’m currently learning Offensive security 
+- :space_invader: I LOVE Reverse Engineering!!
+- ☕ Coffee keeps me alive
 - 🧩 I like attending CTF events to further my knowledge
 
 ### Certifications 📜
