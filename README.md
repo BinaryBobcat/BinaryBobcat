@@ -16,6 +16,8 @@
 - TCM | Practical Malware Analysis & Triage (PMAT)
 - CompTIA | Security+ (Sec+)
 - Blackhat Training:
+  - A Basic Guide to Bug Hunting with Ghidra
+  - Practical Drone Hacking Zero to Hero
   - Reverse Engineering Firmware with Ghidra
   - The Shellcode Lab
   - Assessing and Exploiting Control Systems and IIoT
@@ -23,6 +25,15 @@
   - House of Heap Exploitation
   - A Practical Approach to Emulating Malware
 
+### Capture the Flag Events
+- Official Defcon CTF | ICS Village 2024, 1st place
+- Official Defcon CTF | Mayhem Industries 2023, 2nd place
+- Boeing’s ARINC429 CTF at DEFCON’s Aerospace Village 2023, 1st
+- FireEye Flareon10 RE CTF, placed top 5% (249th/4767)
+- FireEye Flareon9 RE CTF, placed top 12%
+- Hack-a-sat3 CTF, placed top 9%
+- Sans Holiday Hack Challenge 2022, 2023 Finisher
+  
 ### Favorite CTF's
 - Fireye Flareon
 - Sans Holiday Hack Challenge 'Kringlecon'
